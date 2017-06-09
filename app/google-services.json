@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "197753428109",
+    "firebase_url": "https://sucessstory-5c918.firebaseio.com",
+    "project_id": "sucessstory-5c918",
+    "storage_bucket": "sucessstory-5c918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197753428109:android:3a620dd67e1d84cd",
+        "android_client_info": {
+          "package_name": "com.myapp.banna.sucessstory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197753428109-lffbk8u0a6hu9mhfdve9u6ttdas1bl4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD51-B3zWailr_rkBCHxHp1ZgdfSg5OCN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

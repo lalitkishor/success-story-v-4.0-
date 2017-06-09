@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SucessStory</string>
+    <string name="action_settings">Account</string>
+    <string name="action_logout">logout</string>
+    <string name="facebook_app_id">211717739345169</string>
+    <string name="facebook_application_id" translatable="false">211717739345169</string>
+    <string name="fb_login_protocol_scheme">fb211717739345169</string>
+    <string name="send_to">sendData</string>
+
+</resources>
